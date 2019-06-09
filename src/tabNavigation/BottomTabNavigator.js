@@ -4,7 +4,7 @@ import { createBottomTabNavigator, createAppContainer } from 'react-navigation';
 // Import screens
 import SavedScreen from './Screens/SavedScreen';
 import ChatScreen from './Screens/ChatScreen';
-import BookmarkScreen from './Screens/BookmarkScreen';
+import BookmarkScreen from './Screens/BookMarkScreen';
 import NewsScreen from './Screens/NewsScreen';
 
 // Import components
